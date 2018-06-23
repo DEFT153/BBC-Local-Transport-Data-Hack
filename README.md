@@ -29,8 +29,8 @@ The choices and information available on different ways to travel, incentivised 
 #### Transport challenges: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Transport-challenges
 
 ## Further Reading
-### How data journaliusm can revolutionse local transport: a West Midlands case study: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/DJBook-WestMidsCaseStudy-TJ.pdf
-### 
+**How data journalism can revolutionse local transport: a West Midlands case study**: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/DJBook-WestMidsCaseStudy-TJ.pdf
+** 
 
 ## Related events
 11 and 12 July 2018, Digital Transport Exchange, iCentrum, Birmingham: http://landor.co.uk/digitaltransport/2018/home.php
