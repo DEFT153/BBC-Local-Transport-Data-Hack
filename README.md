@@ -32,11 +32,11 @@ The choices and information available on different ways to travel, incentivised 
 #### Stories: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Stories
 #### Transport challenges: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Transport-challenges
 
-## Further Reading
+### Further Reading
 **How data journalism can revolutionse local transport: a West Midlands case study**: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/DJBook-WestMidsCaseStudy-TJ.pdf  
 **Platforms to help manage the transport data explosion**: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/LTT749-platforms-to-help-manage-the-transport-data-explosion-june-2018.pdf 
 
-## Related events
+### Related events
 **11 and 12 July 2018, Digital Transport Exchange, iCentrum, Birmingham:** http://landor.co.uk/digitaltransport/2018/home.php
 11th: 1-5pm: workshop  
 12th: 9-5pm: conference
