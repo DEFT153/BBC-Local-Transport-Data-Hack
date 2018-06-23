@@ -7,7 +7,9 @@ The choices and information available on different ways to travel, incentivised 
 
 # **Resources**
 ## Related events:
-Public consultation on Bus Open Data, iCentrum, 17 July: https://odileeds.org/events/allaboard/#birmingham 
+11 and 12 July 2018, Digital Transport Exchange, iCentrum, Birmingham: http://landor.co.uk/digitaltransport/2018/home.php
+
+17 July 2018: Public consultation on Bus Open Data, iCentrum, Birmingham: https://odileeds.org/events/allaboard/#birmingham 
 
 # **Shared Data Unit stories:**
 Local Bus Decline, 16 Feb 2018: http://www.bbc.co.uk/lnp/SDU-coverage/busservices
