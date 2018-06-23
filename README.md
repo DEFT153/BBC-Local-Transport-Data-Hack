@@ -33,7 +33,8 @@ The choices and information available on different ways to travel, incentivised 
 #### Transport challenges: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Transport-challenges
 
 ### Further Reading
-**How data journalism can revolutionse local transport: a West Midlands case study**: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/DJBook-WestMidsCaseStudy-TJ.pdf    
+**How data journalism can revolutionse local transport: a West Midlands case study**: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/DJBook-WestMidsCaseStudy-TJ.pdf  
+
 **Platforms to help manage the transport data explosion**: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/LTT749-platforms-to-help-manage-the-transport-data-explosion-june-2018.pdf 
 
 ### Related events
