@@ -9,7 +9,7 @@
 #### oneTransport, Steven Hollis and Justin Tisbury: https://onetransport.io 
 #### OpenDataSoft, OpenDataBristol: https://opendata.bristol.gov.uk/pages/homepage/, and West Midlands Data Discovery Centre: https://datadiscoverycenter.opendatasoft.com/pages/homepage/
 ### Regional services 
-#### Transport for West Midlands (TfWM) API, Glyn Simpson. https://api-portal.tfwm.org.uk
-#### Birmingham Bus Journey Times, Tom Forth: http://www.realjourneytime.co.uk/
-### Local R+D platforms
-#### Birmingham in Real Time, Alan Dolhasz: http://birt.ddns.net/
+#### Transport for West Midlands (TfWM) API (all public transport related data including stops, times, fares, swift card, etc) Glyn Simpson. https://api-portal.tfwm.org.uk
+### Local R+D platforms supported by TfWM
+#### Birmingham Bus Journey Times (bus time reliability), Tom Forth: http://www.realjourneytime.co.uk/
+#### Birmingham in Real Time (traffic congestion), Alan Dolhasz: http://birt.ddns.net/
