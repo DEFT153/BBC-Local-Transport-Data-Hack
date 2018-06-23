@@ -6,7 +6,7 @@
 #### Elgin Roadworks (Roadworks, live incidents, and traffic management (road closures, diversions etc): https://www.elgin.org.uk/data-services/data-apis
 #### RoadSafetyAnalysis Open Data (Road Safety), Richard Owen, Agilysis: http://roadsafetyanalysis.org/portfolio-item/rsaopendata/ 
 ### Services with consistent tools and interface, but not national coverage in data yet:
-#### oneTransport, Steven Hollis and Justin Tisbury: https://onetransport.io 
+#### oneTransport, (real time local traffic data, including congestion, parking, and road sign messages) Steven Hollis and Justin Tisbury: https://onetransport.io 
 #### OpenDataSoft, OpenDataBristol: https://opendata.bristol.gov.uk/pages/homepage/, and West Midlands Data Discovery Centre: https://datadiscoverycenter.opendatasoft.com/pages/homepage/
 ### Regional services 
 #### Transport for West Midlands (TfWM) API (all public transport related data including stops, times, fares, swift card, etc) Glyn Simpson. https://api-portal.tfwm.org.uk
