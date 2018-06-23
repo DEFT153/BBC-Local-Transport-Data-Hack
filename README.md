@@ -7,8 +7,8 @@ The choices and information available on different ways to travel, incentivised 
 
 # **Resources**
 ## Related events:
-Public consultation on Bus Open Data, iCentrum, 17 July. Details to be shared once confirmed. 
-Introduction to transport data sources and platforms: article and tables (Nic Cary and Teresa Jolley 8th June 2018): https://www.transportxtra.com/publications/local-transport-today/news/58074/platforms-to-help-manage-the-transport-data-explosion
+Public consultation on Bus Open Data, iCentrum, 17 July: https://odileeds.org/events/allaboard/#birmingham 
+
 # **Shared Data Unit stories:**
 Local Bus Decline, 16 Feb 2018: http://www.bbc.co.uk/lnp/SDU-coverage/busservices
 
