@@ -5,7 +5,7 @@ To give the regional journalists on secondment with the BBC Shared Data Unit the
 
 To enable transport specialists to learn about transport data platforms and data sources, and understand the purpose and capabilities of the BBC Shared Data Unit
 
-This is an opportunity for journalists and transport experts to understand more about each others world's in the context of local transport data, and to explore how each could support and assist the other to deeper citizen understanding and engagement in local transport.
+This is an opportunity for journalists and transport experts to understand more about each others world's in the context of local transport data, and to explore how each could support and assist the other to deepen understanding and widen diversity of engagement in local transport.
 
 Attendees include:
 * seconded regional journalists 
