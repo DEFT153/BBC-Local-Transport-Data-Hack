@@ -1,16 +1,17 @@
-# BBC-Local-Transport-Data-Hack
-## Data Platforms and technical support available: 
-### National coverage
-#### TransportAPI (Public Transport live departure and arrivals, fares, timetables, journey planning, tweet mapping and performance indicators): https://developer.transportapi.com/. Education and research access point through Future Cities Catapult: https://www.transportapi.com/blog/2017/09/fcc-service/ 
-#### Traveline (Bus, coach, tram and Light rail timetables, live departures, transport operator codes, school term dates): http://www.travelinedata.org.uk 
-#### Elgin Roadworks (Roadworks, live incidents, and traffic management (road closures, diversions etc): https://www.elgin.org.uk/data-services/data-apis
-#### RoadSafetyAnalysis Open Data (Road Safety), Richard Owen, Agilysis: http://roadsafetyanalysis.org/portfolio-item/rsaopendata/ 
-#### CrashMap: http://www.crashmap.co.uk/
-### Services with consistent tools and interface, but not national coverage in data yet:
-#### oneTransport, (real time local traffic data, including congestion, parking, and road sign messages) Steven Hollis and Justin Tisbury: https://onetransport.io 
-#### OpenDataSoft, OpenDataBristol: https://opendata.bristol.gov.uk/pages/homepage/, and West Midlands Data Discovery Centre: https://datadiscoverycenter.opendatasoft.com/pages/homepage/
-### Regional services 
-#### Transport for West Midlands (TfWM) API (all public transport related data including stops, times, fares, swift card, etc) Glyn Simpson. https://api-portal.tfwm.org.uk
-### Local R+D platforms supported by TfWM and Birmingham City Council
-#### Birmingham Bus Journey Times (bus time reliability), Tom Forth: http://www.realjourneytime.co.uk/
-#### Birmingham in Real Time (traffic congestion), Alan Dolhasz: http://birt.ddns.net/
+Reasons for this first hack day:
+**Policy**: better data and modelling tools to more accurately and sensitively choose locations for housing/development/transport hubs etc.   
+**Operational**: reducing congestion by sharing data and coordinating construction /disruption projects to minimise impact.  For journalists, holding large organisations (HS2, Highways England, Network Rail etc) to account for not doing all they can in this.
+**Changing how people see and use transport**: 
+The choices and information available on different ways to travel, incentivised use of public transport to reduce car use, understanding the different modes of transport people choose, and the shift in this over time 
+
+# **Resources**
+## Related events:
+Public consultation on Bus Open Data, iCentrum, 17 July. Details to be shared once confirmed. 
+Introduction to transport data sources and platforms: article and tables (Nic Cary and Teresa Jolley 8th June 2018): https://www.transportxtra.com/publications/local-transport-today/news/58074/platforms-to-help-manage-the-transport-data-explosion
+# **Shared Data Unit stories:** 
+## Local Bus Decline, 16 Feb 2018: http://www.bbc.co.uk/lnp/SDU-coverage/busservices
+## Road Condition, 20 March 2018: http://www.bbc.co.uk/news/uk-england-43407167   
+
+# Other work:
+## David Ottewell, mode split in cities, using data 2011 Census data, 1 May 2018: https://twitter.com/davidottewell/status/991329960399863808
+## San Francisco article exploring role of city authorities in coordinating new transport solutions: https://www-govtech-com.cdn.ampproject.org/c/www.govtech.com/products/San-Francisco-Will-be-Ready-for-the-Next-Transportation-Startup-Craze.html?AMP
