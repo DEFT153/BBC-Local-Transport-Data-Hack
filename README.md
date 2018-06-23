@@ -12,5 +12,5 @@
 ## National Coverage
 ### TransportAPI (Public Transport Services): https://developer.transportapi.com/
 ### Traveline (Public Transport Services): http://www.travelinedata.org.uk 
-### Elgin Roadworks (Roadworks, live incidents, and traffic management (road closures, dversions etc): https://www.elgin.org.uk/data-services/data-apis
+### Elgin Roadworks (Roadworks, live incidents, and traffic management (road closures, diversions etc): https://www.elgin.org.uk/data-services/data-apis
 ### RoadSafetyAnalysis Open Data (Road Safety), Richard Owen, Agilysis: http://roadsafetyanalysis.org/portfolio-item/rsaopendata/ 
