@@ -24,7 +24,7 @@ The choices and information available on different ways to travel, incentivised 
 ### Wiki
 #### Home: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki
 #### Data platforms: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Data-platforms
-#### Data sources: 
+#### Data sources: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Data-sources
 #### Stories:
 #### Transport challenges: 
 
