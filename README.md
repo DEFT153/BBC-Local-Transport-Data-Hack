@@ -28,7 +28,7 @@ The choices and information available on different ways to travel, incentivised 
 #### Stories: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Stories
 #### Transport challenges: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Transport-challenges
 
-## Related events:
+## Related events
 11 and 12 July 2018, Digital Transport Exchange, iCentrum, Birmingham: http://landor.co.uk/digitaltransport/2018/home.php
 
 17 July 2018: Public consultation on Bus Open Data, iCentrum, Birmingham: https://odileeds.org/events/allaboard/#birmingham 
