@@ -26,19 +26,10 @@ The choices and information available on different ways to travel, incentivised 
 #### Data platforms: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Data-platforms
 #### Data sources: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Data-sources
 #### Stories: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Stories
-#### Transport challenges: 
+#### Transport challenges: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Transport-challenges
 
 ## Related events:
 11 and 12 July 2018, Digital Transport Exchange, iCentrum, Birmingham: http://landor.co.uk/digitaltransport/2018/home.php
 
 17 July 2018: Public consultation on Bus Open Data, iCentrum, Birmingham: https://odileeds.org/events/allaboard/#birmingham 
 
-# **Shared Data Unit stories:**
-Local Bus Decline, 16 Feb 2018: http://www.bbc.co.uk/lnp/SDU-coverage/busservices
-
-Road Condition, 20 March 2018: http://www.bbc.co.uk/news/uk-england-43407167   
-
-# Other work:
-David Ottewell, mode split in cities, using data 2011 Census data, 1 May 2018: https://twitter.com/davidottewell/status/991329960399863808
-
-San Francisco article exploring role of city authorities in coordinating new transport solutions: https://www-govtech-com.cdn.ampproject.org/c/www.govtech.com/products/San-Francisco-Will-be-Ready-for-the-Next-Transportation-Startup-Craze.html?AMP
