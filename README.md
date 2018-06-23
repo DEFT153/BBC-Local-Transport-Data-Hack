@@ -36,7 +36,7 @@ The choices and information available on different ways to travel, incentivised 
 
 ## Related events
 11 and 12 July 2018, Digital Transport Exchange, iCentrum, Birmingham: http://landor.co.uk/digitaltransport/2018/home.php
-11th: 1-5pm: workshop
+11th: 1-5pm: workshop  
 12th: 9-5pm: conference
 
 17 July 2018: Public consultation on Bus Open Data, iCentrum, Birmingham: https://odileeds.org/events/allaboard/#birmingham 
