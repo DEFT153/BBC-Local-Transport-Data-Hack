@@ -36,6 +36,14 @@ Existing operational transport data in 153+ silos needs to be found, checked for
 #### Stories: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Stories
 #### Transport challenges: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Transport-challenges
 
+### Technical support for data platforms  
+#### Transport for West Midlands API
+#### oneTransport
+#### OpenDataSoft
+#### Road Safety Analysis and Crash Map
+#### Birmingham in Real Time
+#### Birmingham Bus Journey Times  
+
 ### Further Reading
 **How data journalism can revolutionse local transport: a West Midlands case study**: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/DJBook-WestMidsCaseStudy-TJ.pdf  
 
