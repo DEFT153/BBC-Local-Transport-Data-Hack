@@ -24,8 +24,9 @@ Attendees include:
 **Changing how people see and use transport**: 
 The choices and information available on different ways to travel, incentivised use of public transport to reduce car use, understanding the different modes of transport people choose, and the shift in this over time. 
 
-**Replumbing local transport data flows**:  
-Much of what is currently recognised as operational transport data in 153+ silos will need to be co-ordinated, repackaged and made accessible to new audiences, such as insurance companies, media organisations and estate agents, as they in turn are figuring out new business models for targted, and holistic provision of transport choices, times, costs and live disruption/delays.  
+**Replumbing local transport data flows to improve quality of life**:  
+Information about road conditiond and transport services is typically provided by transport teams in local authorities and operators. This places a huge burden of getting the right information to the right people, not knowing who is travelling when, and where. By making the right data available, we can enable others to provide targeted, holistic transport choices, times, costs and live disruption/delays, alongside local amenities, places to go whilst you are delayed, car parking and hotel for your journey etc.
+Existing operational transport data in 153+ silos needs to be found, checked for accuracy, co-ordinated, repackaged and made accessible to new audiences. This is a huge undertaking, and we meed a supportive community of tansport, data, behavioural, communications and business expertise to deliver this.     
 
 ## Resources
 ### Wiki
