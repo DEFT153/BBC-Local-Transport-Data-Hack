@@ -22,9 +22,9 @@ Attendees include:
 **Operational**: reducing congestion by sharing data and coordinating construction/disruption/road maintenance projects to minimise impact.  For journalists, holding large organisations (HS2, Highways England, Network Rail etc) to account for not doing all they can in this.  
 
 **Changing how people see and use transport**: 
-The choices and information available on different ways to travel, incentivised use of public transport to reduce car use, understanding the different modes of transport people choose, and the shift in this over time. 
+the choices and information available on different ways to travel, incentivised use of public transport to reduce car use, understanding the different modes of transport people choose, and the shift in this over time. 
 
-**Replumbing local transport data flows to improve quality of life**:  Information about traffic conditions and public transport services is typically provided by transport teams in local authorities and operators. By making the right data available in accessible ways, others can provide targeted, holistic transport choices relevant to their audience, with accurate journey times, costs and live disruption/delays, alongside local amenities, places to go whilst you are delayed, and car parking and hotel for your journey.
+**Replumbing local transport data flows to improve quality of life**:  information about traffic conditions and public transport services is typically provided by transport teams in local authorities and operators. By making the right data available in accessible ways, others can provide targeted, holistic transport choices relevant to their audience, with accurate journey times, costs and live disruption/delays, alongside local amenities, places to go whilst you are delayed, and car parking and hotel for your journey.
 
 Existing operational transport data in 153+ silos needs to be found, checked for accuracy, co-ordinated, repackaged and made accessible to new audiences. This is a huge undertaking, and we meed a diverse, supportive community with transport, data, behavioural, communications, public services and business expertise to deliver this.     
 
