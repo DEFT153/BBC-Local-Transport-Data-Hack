@@ -17,12 +17,15 @@ Attendees include:
 * transport policy and data experts 
 
 ## Big picture challenges to tackle
-**Policy**: better data and modelling tools to more accurately and sensitively choose locations for housing/development/transport hubs etc.  
+**Policy**: better data and modelling tools to more accurately and sensitively choose locations for housing/development/transport hubs, wider access to modelling tools and decision-making, and that more relevant/historic data is used in modelling scenarios. 
 
-**Operational**: reducing congestion by sharing data and coordinating construction /disruption projects to minimise impact.  For journalists, holding large organisations (HS2, Highways England, Network Rail etc) to account for not doing all they can in this.  
+**Operational**: reducing congestion by sharing data and coordinating construction/disruption/road maintenance projects to minimise impact.  For journalists, holding large organisations (HS2, Highways England, Network Rail etc) to account for not doing all they can in this.  
 
 **Changing how people see and use transport**: 
-The choices and information available on different ways to travel, incentivised use of public transport to reduce car use, understanding the different modes of transport people choose, and the shift in this over time 
+The choices and information available on different ways to travel, incentivised use of public transport to reduce car use, understanding the different modes of transport people choose, and the shift in this over time. 
+
+**Replumbing local transport data flows**:  
+Much of what is currently recognised as operational transport data in 153+ silos will need to be co-ordinated, repackaged and made accessible to new audiences, such as insurance companies, media organisations and estate agents, as they in turn are figuring out new business models for targted, and holistic provision of transport choices, times, costs and live disruption/delays.  
 
 ## Resources
 ### Wiki
