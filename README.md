@@ -39,8 +39,6 @@ Existing operational transport data in 153+ silos needs to be found, checked for
 ### Technical support for data platforms  
 * Transport for West Midlands API
 * oneTransport
-** Begineers Guide https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/onetransport-beginners-guide.pdf
-** Birmingham data user guide: 
 * OpenDataSoft
 * Road Safety Analysis and Crash Map
 * Birmingham in Real Time
