@@ -29,6 +29,12 @@ the choices and information available on different ways to travel, incentivised 
 Existing operational transport data in 153+ silos needs to be found, checked for accuracy, co-ordinated, repackaged and made accessible to new audiences. This is a huge undertaking, and we meed a diverse, supportive community with transport, data, behavioural, communications, public services and business expertise to deliver this.     
 
 ## Resources
+
+### Introductory presentations
+#### Peter Sherlock - the BBC Shared Data Unit:
+#### Teresa Jolley, DEFT153 Ltd, with Pupul Chatterjee (DEFT153) and Nic Cary (Waysphere) - transport data challenges: https://docs.google.com/presentation/d/1ldqwdoIqV90k33oJRvu1raEl85zcSRm_kVZpqo-xCYU/edit?usp=sharing
+#### Dan Pass - public authorities perspective: 
+
 ### Wiki
 #### Home: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki
 #### Data platforms: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki/Data-platforms
