@@ -33,7 +33,7 @@ Existing operational transport data in 153+ silos needs to be found, checked for
 ### Introductory presentations
 #### Peter Sherlock - the BBC Shared Data Unit:
 #### Teresa Jolley, DEFT153 Ltd, with Pupul Chatterjee (DEFT153) and Nic Cary (Waysphere) - transport data challenges: https://docs.google.com/presentation/d/1ldqwdoIqV90k33oJRvu1raEl85zcSRm_kVZpqo-xCYU/edit?usp=sharing
-#### Dan Pass - public authorities perspective: 
+#### Dan Pass - public authorities perspective: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/TfWM_2018_06_28_Presentation_WMChallengesOpportunities_BBCHackday.pptx  
 
 ### Wiki
 #### Home: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/wiki
