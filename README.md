@@ -50,6 +50,8 @@ Existing operational transport data in 153+ silos needs to be found, checked for
 **Platforms to help manage the transport data explosion**: https://github.com/DEFT153/BBC-Local-Transport-Data-Hack/blob/master/LTT749-platforms-to-help-manage-the-transport-data-explosion-june-2018.pdf 
 
 ### Related events
+**9 July 2018, AR+VR // How can it impact your business?, Birmingham City University:** https://www.eventbrite.com/e/dmt-lab-present-arvr-how-can-it-impact-your-business-tickets-47016967014
+
 **11 and 12 July 2018, Digital Transport Exchange, iCentrum, Birmingham:** https://www.eventbrite.co.uk/e/digital-transport-exchange-2018-birmingham-innovation-birmingham-delegate-registration-tickets-47294764915
 11th: 1-5pm: workshop    
 12th: 9-5pm: conference
